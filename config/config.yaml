@@ -1,2 +1,13 @@
 # 实现：配置文件，存放测试环境、浏览器类型等配置信息。
 
+# 浏览器配置
+browser: chrome
+base_url: https://www.baidu.com
+timeout: 30
+
+# 数据库配置
+username: root
+password: 123456
+host: localhost
+port: 3306
+database: test
